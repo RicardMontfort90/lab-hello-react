@@ -18,9 +18,9 @@
 
 /*** Header ***/
 
-.heading {
+.header {
   /* background-color: var(--main-black); */
-  background-image: url('/public/backgrounds/background.png');
+/*  background-image: url('/public/backgrounds/background.png');*/
   background-position: center;
   height: 50%;
   border-radius: 10px;
