@@ -1,5 +1,17 @@
+
+:root {
+  --main-black: #282c34;
+  --main-white: white;
+  --main-blue: #61dafb
+}
+
 .App {
-  text-align: center;
+  height: 100vh;
+  margin: 10px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
 .App-logo {
